@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "/bjpapp/static/css/main.cec5a94e.css",
-    "main.js": "/bjpapp/static/js/main.6a771d32.js",
+    "main.css": "/bjpapp/static/css/main.8c13005f.css",
+    "main.js": "/bjpapp/static/js/main.0362d85e.js",
     "static/media/banner archana patil-2.jpg": "/bjpapp/static/media/banner archana patil-2.b05c14bc1c5032c941ba.jpg",
     "static/media/banner archana patil.jpg": "/bjpapp/static/media/banner archana patil.e475587e0e3e59688d64.jpg",
     "static/media/banner archana patil-3.jpg": "/bjpapp/static/media/banner archana patil-3.2f11c8266d6108ad74c0.jpg",
     "static/media/ArchanaCalligraphy.png": "/bjpapp/static/media/ArchanaCalligraphy.3832df0f404e13545a66.png",
-    "static/media/archana_patil_about_bg.jpg": "/bjpapp/static/media/archana_patil_about_bg.4002f81c9bb0b0423096.jpg",
     "static/media/slick4.jpg": "/bjpapp/static/media/slick4.78d4b4f3d90733edc579.jpg",
     "static/media/slick6.jpg": "/bjpapp/static/media/slick6.cd77f8da53cae97e330f.jpg",
     "static/media/slick5.jpg": "/bjpapp/static/media/slick5.f98864f332bf300d44e3.jpg",
@@ -23,11 +22,11 @@
     "static/media/slick.ttf": "/bjpapp/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/bjpapp/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/bjpapp/index.html",
-    "main.cec5a94e.css.map": "/bjpapp/static/css/main.cec5a94e.css.map",
-    "main.6a771d32.js.map": "/bjpapp/static/js/main.6a771d32.js.map"
+    "main.8c13005f.css.map": "/bjpapp/static/css/main.8c13005f.css.map",
+    "main.0362d85e.js.map": "/bjpapp/static/js/main.0362d85e.js.map"
   },
   "entrypoints": [
-    "static/css/main.cec5a94e.css",
-    "static/js/main.6a771d32.js"
+    "static/css/main.8c13005f.css",
+    "static/js/main.0362d85e.js"
   ]
 }
