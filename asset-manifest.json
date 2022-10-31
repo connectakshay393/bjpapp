@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bjpapp/static/css/main.8ad451e4.css",
-    "main.js": "/bjpapp/static/js/main.8d797aa6.js",
+    "main.css": "/bjpapp/static/css/main.0f09d805.css",
+    "main.js": "/bjpapp/static/js/main.e331dafd.js",
     "static/media/banner archana patil-2.jpg": "/bjpapp/static/media/banner archana patil-2.b05c14bc1c5032c941ba.jpg",
     "static/media/banner archana patil.jpg": "/bjpapp/static/media/banner archana patil.e475587e0e3e59688d64.jpg",
     "static/media/banner archana patil-3.jpg": "/bjpapp/static/media/banner archana patil-3.2f11c8266d6108ad74c0.jpg",
@@ -17,16 +17,17 @@
     "static/media/slick1.jpg": "/bjpapp/static/media/slick1.baf23b1b980999553b0a.jpg",
     "static/media/profile.png": "/bjpapp/static/media/profile.e085bab753c976dd5f15.png",
     "static/media/archana_about_profile.jpg": "/bjpapp/static/media/archana_about_profile.764955ccfb73cf86afbc.jpg",
+    "static/media/Facebook_Logo.png": "/bjpapp/static/media/Facebook_Logo.866d8d2247aaac78d93b.png",
     "static/media/slick.svg": "/bjpapp/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/bjpapp/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/bjpapp/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/bjpapp/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/bjpapp/index.html",
-    "main.8ad451e4.css.map": "/bjpapp/static/css/main.8ad451e4.css.map",
-    "main.8d797aa6.js.map": "/bjpapp/static/js/main.8d797aa6.js.map"
+    "main.0f09d805.css.map": "/bjpapp/static/css/main.0f09d805.css.map",
+    "main.e331dafd.js.map": "/bjpapp/static/js/main.e331dafd.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ad451e4.css",
-    "static/js/main.8d797aa6.js"
+    "static/css/main.0f09d805.css",
+    "static/js/main.e331dafd.js"
   ]
 }
