@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bjpapp/static/css/main.0f09d805.css",
+    "main.css": "/bjpapp/static/css/main.b984d091.css",
     "main.js": "/bjpapp/static/js/main.e331dafd.js",
     "static/media/banner archana patil-2.jpg": "/bjpapp/static/media/banner archana patil-2.b05c14bc1c5032c941ba.jpg",
     "static/media/banner archana patil.jpg": "/bjpapp/static/media/banner archana patil.e475587e0e3e59688d64.jpg",
@@ -23,11 +23,11 @@
     "static/media/slick.ttf": "/bjpapp/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/bjpapp/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/bjpapp/index.html",
-    "main.0f09d805.css.map": "/bjpapp/static/css/main.0f09d805.css.map",
+    "main.b984d091.css.map": "/bjpapp/static/css/main.b984d091.css.map",
     "main.e331dafd.js.map": "/bjpapp/static/js/main.e331dafd.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f09d805.css",
+    "static/css/main.b984d091.css",
     "static/js/main.e331dafd.js"
   ]
 }
