@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bjpapp/static/css/main.4f136de8.css",
-    "main.js": "/bjpapp/static/js/main.feca240c.js",
+    "main.js": "/bjpapp/static/js/main.ec586cae.js",
     "static/media/banner archana patil-2.jpg": "/bjpapp/static/media/banner archana patil-2.b05c14bc1c5032c941ba.jpg",
     "static/media/banner archana patil.jpg": "/bjpapp/static/media/banner archana patil.e475587e0e3e59688d64.jpg",
     "static/media/banner archana patil-3.jpg": "/bjpapp/static/media/banner archana patil-3.2f11c8266d6108ad74c0.jpg",
@@ -15,7 +15,6 @@
     "static/media/slick3.jpg": "/bjpapp/static/media/slick3.c5d34aa82365875da975.jpg",
     "static/media/bjp_logo.png": "/bjpapp/static/media/bjp_logo.5b9eb792f0e6ed99ae08.png",
     "static/media/slick1.jpg": "/bjpapp/static/media/slick1.baf23b1b980999553b0a.jpg",
-    "static/media/fire_department.png": "/bjpapp/static/media/fire_department.346b8662aa3583e0af3c.png",
     "static/media/profile.png": "/bjpapp/static/media/profile.e085bab753c976dd5f15.png",
     "static/media/archana_about_profile.jpg": "/bjpapp/static/media/archana_about_profile.764955ccfb73cf86afbc.jpg",
     "static/media/police.png": "/bjpapp/static/media/police.600b123bc51115add3ab.png",
@@ -27,10 +26,10 @@
     "static/media/slick.woff": "/bjpapp/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/bjpapp/index.html",
     "main.4f136de8.css.map": "/bjpapp/static/css/main.4f136de8.css.map",
-    "main.feca240c.js.map": "/bjpapp/static/js/main.feca240c.js.map"
+    "main.ec586cae.js.map": "/bjpapp/static/js/main.ec586cae.js.map"
   },
   "entrypoints": [
     "static/css/main.4f136de8.css",
-    "static/js/main.feca240c.js"
+    "static/js/main.ec586cae.js"
   ]
 }
